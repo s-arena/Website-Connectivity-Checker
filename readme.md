@@ -1,6 +1,6 @@
 # Website Connectivity Checker
 
-This program can be used to notify the user when a website (froma list of their choice) is down.
+This program can be used to notify the user when a website (from a list of their choice) is down.
 
 ## Requirements
 
